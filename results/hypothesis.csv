@@ -1,0 +1,6 @@
+Variable,Beta,t-value,p-value,Hypothesis,Result
+FL_score,0.5715461189809105,6.877732491070197,0.0,H1: Financial Literacy → PSB,Supported
+IC_score,0.27376428778964723,3.551214590082371,0.00046006,H2: Income Constraint → PSB,Supported
+SI_score,-0.21365239358273186,-3.077968752251989,0.00232223,H3: Social Influence → PSB,Supported
+FA_score,0.1739229151652528,1.9689126971684903,0.05009485,H4: Financial Access → PSB,Not Supported
+RP_score,0.11475464449129472,1.5589175446056889,0.12031196,H5: Risk Preference → PSB,Not Supported

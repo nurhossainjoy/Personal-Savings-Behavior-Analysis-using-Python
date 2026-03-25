@@ -1,0 +1,1 @@
+This folder contains the visual that was used in the analysis.
